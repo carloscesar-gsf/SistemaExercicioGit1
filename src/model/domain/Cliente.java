@@ -5,6 +5,4 @@ public class Cliente {
 	
 	private String nome;
 	
-	private Double salario;
-	
 }
